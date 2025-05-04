@@ -1,4 +1,4 @@
-package SlindingWindow;
+package TwoPointers.SlindingWindow;
 
 public class Main {
 }

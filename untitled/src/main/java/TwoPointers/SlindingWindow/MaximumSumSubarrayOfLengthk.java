@@ -1,4 +1,4 @@
-package SlindingWindow;
+package TwoPointers.SlindingWindow;
 
 // Problem: Given an array of integers and a number k, find the maximum sum of a subarray of size k.
 //LeetCode Problem: 643. Maximum Average Subarray k
