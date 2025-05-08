@@ -1,4 +1,4 @@
-package BasicQestions.Maths;
+package BasicQestions.BasicMaths;
 
 public class CountDigits {
     public static void main(String[] args) {
