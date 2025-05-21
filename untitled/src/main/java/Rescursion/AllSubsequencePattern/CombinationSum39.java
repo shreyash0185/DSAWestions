@@ -1,3 +1,5 @@
+package Rescursion.AllSubsequencePattern;
+
 import java.util.ArrayList;
 import java.util.List;
 
